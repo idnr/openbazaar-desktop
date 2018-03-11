@@ -1,10 +1,9 @@
-# OpenBazaar Client v2
+# bitTrades Client v1.0
 
-This is the reference client for the OpenBazaar network. It is an interface for your OpenBazaar node, to use it you will need to run an [OpenBazaar node](https://github.com/OpenBazaar/openbazaar-go) either locally or on a remote server.
+This is the reference client for the bitTrades network. It is an interface for your bitTrades node, to use it you will need to run an [bitTrades node](https://github.com/bitTrades/bitTrades-go) either locally or on a remote server.
 
-For full installable versions of the OpenBazaar app, with the server and client bundled together, go to [the OpenBazaar download page.](https://www.openbazaar.org/download/)
+For full installable versions of the bitTrades app, with the server and client bundled together, go to [the bitTrades download page.](https://www.bitTrades.io/download/)
 
-[![Build Status](https://travis-ci.org/OpenBazaar/openbazaar-desktop.svg)](https://travis-ci.org/OpenBazaar/openbazaar-desktop)
 
 ## Getting Started
 
